@@ -1,4 +1,4 @@
-![Banner](https://github.com/KelloHitt/KelloHitt/blob/main/Github%20Profile!.png?raw=true)
+![Banner](https://github.com/vcha-uni/vcha-uni/blob/main/Github%20Profile!.png?raw=true)
 
 <!--
 **vcha-uni/vcha-uni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
